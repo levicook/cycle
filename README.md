@@ -56,7 +56,7 @@ Boring, but useful. My favorite kind of software :)
 
 ## Benchmarks and Race Detection:
 
-Nothing interesting here, just a sanity check because we are using the sync package. 
+Nothing interesting here, just a sanity check because we are synchronizing. 
 
 ```bash
 levi@needle:~/go/src/github.com/levicook/cycle
