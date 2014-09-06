@@ -12,9 +12,10 @@ Create a StringCycle by calling Strings with the string values you want
 to cycle through. 
 
 Here's an application that creates a cycle containing two hex color
-codes. It loops 10 times and printing the next value from the cycle
-to standard out. The program illustrates a brute force pattern for
-alternating row colors in html generators.
+codes. It loops 10 times and prints the next value from the cycle
+to standard out. The program illustrates a simplistic pattern for
+alternating row colors in html. (side note: please use css classes in
+real apps :))
 
 ```go
 package main
